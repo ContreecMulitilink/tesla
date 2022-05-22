@@ -9,3 +9,4 @@
 ## Access provisioning
 1. set up ssh access to remote repo on local machine
 2. use PAT created to access remote repo
+3. Save PAT in local machine and use as required.
